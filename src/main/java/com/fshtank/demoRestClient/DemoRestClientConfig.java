@@ -1,4 +1,4 @@
-package com.dev2life.demoRestClient;
+package com.fshtank.demoRestClient;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

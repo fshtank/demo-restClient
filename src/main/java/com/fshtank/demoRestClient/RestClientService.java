@@ -1,11 +1,9 @@
-package com.dev2life.demoRestClient;
+package com.fshtank.demoRestClient;
 
 
-import com.dev2life.demoRestClient.model.UserDTO;
+import com.fshtank.demoRestClient.model.UserDTO;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.*;
 
-import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestClient;
 
 @Service
